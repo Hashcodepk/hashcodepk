@@ -2,7 +2,9 @@
 
 [Portfolio](https://hashcode.netlify.app/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcodepk&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcodepk&theme=synthwave)
+
+![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&theme=synthwave)
 
 
 <!--
