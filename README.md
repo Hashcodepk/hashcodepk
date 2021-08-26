@@ -10,6 +10,9 @@ From 27-Aug-2021\
 \
 ![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&layout=compact&theme=synthwave)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Hashcodepk/hashcodepk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
