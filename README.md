@@ -6,8 +6,6 @@
 
 ![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&theme=synthwave)
 
-From 27-Aug-2021\
-\
 ![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&theme=synthwave)
 
 
