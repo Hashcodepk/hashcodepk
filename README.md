@@ -8,7 +8,7 @@
 
 From 27-Aug-2021\
 \
-![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&layout=compact&theme=synthwave)
+![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&layout=compact&v=2&theme=synthwave)
 
 
 
