@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcodepk&layout=compact&langs_count=6&theme=synthwave)
 
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&hide_border=true&theme=synthwave)
+![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave)
 
 ![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&theme=synthwave&v=2)
 
