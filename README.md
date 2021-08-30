@@ -2,11 +2,11 @@
 
 [Portfolio](https://hashcode.netlify.app/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcodepk&layout=compact&langs_count=6&hide_border=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashcodepk&layout=compact&langs_count=6&hide_border=true&theme=github_dark)
 
-![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=synthwave)
+![Hashir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hashcodepk&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark)
 
-![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&theme=synthwave&custom_title=WakaTime%20Weekly%20Stats&hide_border=true&range=last_7_days&v=2)
+![Hashir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hashir_ghouri&theme=github_dark&custom_title=WakaTime%20Weekly%20Stats&hide_border=true&range=last_7_days&v=2)
 
 
 
